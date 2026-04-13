@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../OneDrive/Desktop/Website"
+		},
+		{
+			"path": "../OneDrive/Desktop/SDEV220/API"
+		}
+	],
+	"settings": {
+		"python-envs.pythonProjects": [
+			{
+				"path": ".",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip"
+			},
+			{
+				"path": "api_project",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip"
+			}
+		]
+	}
+}
+
+Django~=5.2.12
