@@ -120,3 +120,5 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 STATIC_ROOT = '/home/BaileyKelly0918/static/'
+
+LOGIN_REDIRECT_URL = '/'
